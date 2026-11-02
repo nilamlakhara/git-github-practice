@@ -1,2 +1,1 @@
-# git-github-practice
-Git and GitHub Practical
+Project Status: Conflict Branch Update

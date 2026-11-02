@@ -1,2 +1,1 @@
-# git-github-practice
-Git and GitHub Practical
+Update README from main branch

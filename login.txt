@@ -1,0 +1,7 @@
+Login Feature
+
+This file represents a login feature
+for the software engineering project.
+
+Username: Student
+Status: Login feature created
